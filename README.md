@@ -1,4 +1,4 @@
-# Single Number (Brute Force) - Java
+# Single Number (Brute Force) 
 
 ## 📌 Overview
 
