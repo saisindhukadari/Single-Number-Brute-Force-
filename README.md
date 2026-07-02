@@ -1,4 +1,4 @@
-Single Number using Brute Force in Java
+# Single Number using Brute Force in Java
 
 ## 📌 Overview
 
